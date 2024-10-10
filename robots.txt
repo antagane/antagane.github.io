@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://antagane.github.io/sitemap.html.gz
+Sitemap: https://antagane.github.io/app/sitemap.html.gz
+Sitemap: https://antagane.github.io/assets/sitemap.html.gz
+Sitemap: https://antagane.github.io/css/sitemap.html.gz
+Sitemap: https://antagane.github.io/includes/sitemap.html.gz
+Sitemap: https://antagane.github.io/item/sitemap.html.gz
+Sitemap: https://antagane.github.io/src/sitemap.html.gz
